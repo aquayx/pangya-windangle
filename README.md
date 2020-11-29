@@ -1,6 +1,6 @@
 # pangya-windangle
 
-## UPDATE: actually, this code is really bad. I can do better, and I did do better :) I may or may not update this repository at some point, but if you're interested in the current developments, you can e-mail git-py@aqua.rip, I'll reply I promise :)
+## UPDATE: actually, this approach is really bad, despite the fairly reasonable results. I can do better, and I did do better :) However, the problem is not completely solved yet. I may or may not update this repository at some point, but if you're interested in the current developments, you can e-mail git-py@aqua.rip, I'll reply I promise :)
 
 Reconhecimento do ângulo do vento em screenshots de PangYa (Python3, 2017)
 
